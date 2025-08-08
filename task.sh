@@ -46,3 +46,7 @@ grep "dir" "Практическое задание" | sort
 cd ..
 # удаляем директорию task со всем содержимым
 rm -r task
+
+
+
+#for PULL REQUEST
